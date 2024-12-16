@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shaua\\source\\repos\\Shauana-Torquato\\MyCosmetics\\MyCosmetics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|c:\\users\\shaua\\source\\repos\\shauana-torquato\\mycosmetics\\mycosmetics\\mycosmetics\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|solutionrelative:mycosmetics\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|c:\\users\\shaua\\source\\repos\\shauana-torquato\\mycosmetics\\mycosmetics\\mycosmetics\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|solutionrelative:mycosmetics\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|c:\\users\\shaua\\source\\repos\\shauana-torquato\\mycosmetics\\mycosmetics\\mycosmetics\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|solutionrelative:mycosmetics\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|c:\\users\\shaua\\source\\repos\\shauana-torquato\\mycosmetics\\mycosmetics\\mycosmetics\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{2ECD941B-2B15-4507-9099-72C34269CD37}|MyCosmetics\\MyCosmetics.csproj|solutionrelative:mycosmetics\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\shaua\\source\\repos\\Shauana-Torquato\\MyCosmetics\\MyCosmetics\\MyCosmetics\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "MyCosmetics\\Views\\LoginPage.xaml",
@@ -39,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\shaua\\source\\repos\\Shauana-Torquato\\MyCosmetics\\MyCosmetics\\MyCosmetics\\App.xaml",
               "RelativeDocumentMoniker": "MyCosmetics\\App.xaml",
@@ -52,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "C:\\Users\\shaua\\source\\repos\\Shauana-Torquato\\MyCosmetics\\MyCosmetics\\MyCosmetics\\Views\\AboutPage.xaml",
               "RelativeDocumentMoniker": "MyCosmetics\\Views\\AboutPage.xaml",
               "ToolTip": "C:\\Users\\shaua\\source\\repos\\Shauana-Torquato\\MyCosmetics\\MyCosmetics\\MyCosmetics\\Views\\AboutPage.xaml",
               "RelativeToolTip": "MyCosmetics\\Views\\AboutPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-16T16:54:56.968Z",
               "EditorCaption": ""
